@@ -51,3 +51,5 @@ Educational purposes only. Use at your own risk. May violate Microsoft's Terms o
 ---
 
 **Note**: Automated account creation violates Microsoft's Terms of Service. This tool is for educational and research purposes only.
+
+Contact: https://t.me/vidkid5
